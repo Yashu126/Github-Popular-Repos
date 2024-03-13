@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.btn-li {
+  list-style-type: none;
+}
+
+.normal-btn {
+  border: none;
+  outline: none;
+  font-family: Roboto;
+  font-weight: 600;
+  background-color: transparent;
+  color: #1e293b;
+}
+
+.selected-btn {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  background-color: transparent;
+  font-family: Roboto;
+  outline: none;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
